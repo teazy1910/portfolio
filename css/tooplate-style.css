@@ -78,6 +78,7 @@ strong {
   font-weight: bold;
 }
 
+
 .custom-btn {
   color: #5b5b5b;
   font-weight: bold;
@@ -427,7 +428,8 @@ strong {
   text-align: center;
   width: 100%;
   padding: 63px 26px 45px;
-  border: 1px solid #eeeeee;
+  /* border: 1px solid #eeeeee; */
+  align-self: baseline;
 }
 h3 {
   font-weight: 100;
